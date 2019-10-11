@@ -6,4 +6,4 @@ https://www.bu.edu/nf-kb/gene-resources/target-genes/
 
 I curated it to remove duplications and wrong information such as mislabelled access IDs or gene IDs.
 
-For easy presentation, I compared the original list and my curated list here online [LINK]. I also attached a change.log text file.
+For easy presentation, I compared the original list and my curated list here online [LINK](https://www.diffchecker.com/ykuzhrdz). I also attached a change.log text file.
