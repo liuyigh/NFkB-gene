@@ -1,0 +1,47 @@
+View Diff:
+https://www.diffchecker.com/ykuzhrdz
+
+#duplicates
+GCLC        4
+CXCL1       4
+IER3        3
+CXCL5       3
+CFB         2
+CCL5        2
+CCL20       2
+CXCL10      2
+GCLM        2
+FTH1        2
+CXCL3       2
+LTA         2
+CCL4        2
+ICOS        2
+SOD1        2
+LCN2        2
+CD3G        2
+TNFSF13B    2
+NOS2A       2
+BDKRB1      2
+MMP9        2
+IGFBP2      2
+CR2         2
+FCER2       2
+#A few mismatches and wrong info
+
+#missing info (Gene ID and Access ID):
+H-2Kb
+IAPs
+XIAP NM_001167
+CIAP1 NM_001166
+CIAP2 NM_001165
+NAIP NM_004536
+SURVIVIN NM_001168
+
+Nr13 NM_204522
+CDK6 NM_001259
+Invariant Chain NM_004355 CD74
+
+#Alternatives
+BLIMP1
+SKALP
+SERPINE1

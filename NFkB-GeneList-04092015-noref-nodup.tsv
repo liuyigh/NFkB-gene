@@ -1,0 +1,446 @@
+BAFF	B-cell Activating Factor	NM_006573	TNFSF13B
+BLIMP-1	B lymphocyte-induced maturation protein-1	NM_00198	PRDM1
+CCL15/Leukotactin/ SCYA15	Chemokine for cell attraction	NM_032965	CCL15
+CCL17	Chemokine	NM_002987	CCL17
+CCL19	Recruitment of naive T cells to dendritic cells	NM_006274	CCL19
+CCL22	Epithelial cell chemokine at mucosa	NM_002990	CCL22
+CCL23/SYA23	Monocyte chemokine	NM_005064	CCL23
+CCL28	Chemokine for T-cell attraction	NM_148672	CCL28
+CINC-1	Cytokine-induced neutrophil chemoattractant	NM_001511	CXCL1
+*CXCL 11	Chemokine ligand for CXCR3	NM_005409	CXCL11
+Gro beta	Chemokine	AAP13104	GRO-beta
+Gro gamma	Chemokine	AAP13105. 	GRO-gamma
+*ICOS	Inducible co-stimulator	NM_012092	ICOS
+IFN-g	Interferon	NM_000619	IFNG
+IL-1a	Interleukin-1a	NM_000575	IL1A
+IL-1b	Interleukin-1b	NM_000576	IL1B
+IL-1 receptor antagonist	Inhibitor of IL-1 activity	NM_173842	IL1RN
+IL-2	Interleukin-2	NM_000586	IL2
+IL-6	Interleukin-6, inflammatory cytokine	NM_000600	IL6
+IL-8	Interleukin-8, alpha-chemokine	NM_000584	IL8
+IL-9	Interleukin-9	NM_000590	IL9
+IL-10	Interleukin-10	NM_000572	IL10
+IL-11	Interleukin-11	NM_000641	IL11
+IL-12B (p40)	Interleukin-12	NM_002187	IL12B
+IL-12A (p35)	Interleukin-12	NM_000882	IL12A
+IL-13	Interleukin-13	NM_002188	IL13
+*IL-15	Interleukin-15	NM_172174	IL15
+IL-17	Interleukin-17	NM_002190	IL17
+IL-23A (p19)	Interleukin-23 (p19 gene)	NM_016584	IL23A
+IL-27 (p28)	Interleukin-27 (p28 subunit)	NM_145659	IL27
+EBI3/IL-27B	EBV-induced gene 3 (IL-27beta chain)	NM_005755	EBI3
+beta-Interferon	Interferon	NM_002176	IFNB1
+IP-10	alpha Chemokine	NM_001565	CXCL10
+KC	alpha Chemokine	S79767	KC
+IiGp1	Cytokine	NM_021792	Iigp1
+*LIX (mouse); ENA-78 (CXCL5) and GCP-2 (CXCL6) (human)	LPS-induced CXC chemokines	NM_002993	CXCL6
+Lymphotoxin a	TNF-like cytokine	NM_000595	LTA
+Lymphotoxin b	Anchors TNF to cell surface	NM_002341	LTB
+MCP-1/JE	Macrophage chemotactic protein, beta Chemokine	NM_002982	CCL2
+MIG	Monokine induced by IFN-gamma	NM_002416	CXCL9
+MIP-1a,b	Macrophage inflammatory protein-1, b Chemokine	NM_002983	CCL3
+aka (LAG-1)	Lymphocyte activation gene-1	NM_002984	CCL4
+MIP-2	Macrophage inflammatory protein-2, b Chemokine	NM_002090	CXCL3
+MIP-3alpha/CCL20	Macrophage inflammatory protein-3a	NM_004591	CCL20
+Neutrophil activating peptide-78	Activates neutrophils	NM_002994	CXCL5
+RANTES	Regulated upon Activation Normal T lymphocyte Expressed and Secreted,b Chemokine	NM_002985	CCL5
+TCA3, T-cell activation gene 3	T-cell activation gene 3, beta chemokine	NM_002981	CCL1
+TNFalpha	Tumor necrosis factor alpha	NM_000594	TNF
+TRAIL (aka Apo2 ligand)	Cytokine	NM_003810	TNFSF10
+TFF3 (Treefoil factor)	Peptide in response to gut irritation	NM_003226	TFF3
+VEGI	Vascular endothelial growth inhibitor	NM_005118	TNFSF15
+B7.1 (CD80)	Co-stimulation of T cells via CD28 binding	NM_005191	CD80
+BRL-1	B-cell homing receptor	NM_001716	BLR1
+CCR5	Chemokine receptor	NM_000579	CCR5
+CCR7	Chemokine receptor	NM_001838	CCR7
+CXCR	Chemokine receptor	NM_000634	IL8RA
+CXCR2	Chemokine receptor	NM_001557	IL8RB
+CD137	TNF-like receptor	NM_001561	TNFRSF9
+CD154	CD40 ligand	NM_000074	CD40LG
+CD3gamma	T-cell marker	NM_000073	CD3G
+CD21	B-cell surface molecule	NM_001006658	CR2
+CD38	NAD to cADP ribose converting molecule	NM_001775	CD38
+CD40	TNF-receptor family member	NM_001250	CD40
+CD48	Antigen of stimulated lymphocytes	NM_001778	CD48
+CD83	T-cell development molecule	NM_004233	CD83
+CD86	Dendritic cell development molecule	NM_175862	CD86
+CD98	Membrane receptor, survival blood cells	NM_001012661	SLC3A2
+CD134	TNF-like receptor	NM_003327	TNFRSF4
+*F11-receptor	Ig-like receptor for platelet adhesion	NM_016946	F11R
+FcRn	Neonatal receptor for IgG	NM_004107	FCGRT
+Fc epsilon receptor II (CD23)	Receptor for IgE	NM_002002	FCER2
+HLA-G	Human leukocyte antigen-G	NM_002127	HLA-G
+IL-2 receptor a-chain	IL-2 receptor subunit	NM_000417	IL2RA
+Immunoglobulin Cgamma1	IgG heavy chain	J00230	IGHG2
+Immunoglobulin gamma1	IgG heavy chain	J00228	IGHG1
+Immunoglobulin gamma4	IgG heavy chain	K01316	IGHG4
+Immunoglobulin e heavy chain	IgE heavy chain	J00222	IGHE
+Immunoglobulin k light chain	Antibody light chain	J00241	IGKC
+Invariant Chain II	Antigen presentation	NM_004355	CD74
+Kinin B1 Receptor	Cardiovascular homeostasis; inflammation	NM_000710	BDKRB1
+MHC class I (H-2Kb)	Major histocompatibility antigen		
+MHC Class I HLA-B7	Major histocompatibility antigen	NM_005514	HLA-B
+b2 Microglobulin	Chaperone for MHC class I-like molecules	NM_004048	B2M
+Nod2	Intracellular pathogen recognition	NM_022162	NOD2
+Polymeric Ig receptor	Binds Ig	AJ276452	pIgR
+PGRP-S	Peptidoglycan recognition protein-S	NM_005091	PGLYRP1
+T-cell receptor b chain	T-cell receptor subunit	NG_001333	TCRB
+TLR-2	Toll-like receptor	NM_003264	TLR2
+TLR9	Toll-like receptor	NM_017442	TLR9
+*TNF-Receptor, p75/80 (CD120B)	High-affinity TNF receptor	NM_001066	TNFRSF1B
+TREM-1	Neutrophil/monocyte Ig receptor	NM_018643	TREM1
+Complement B	Activator of alternative complement pathway	NM_001710	CFB
+Complement component 3	Component of complement pathway	NM_000064	C3
+Proteasome Subunit LMP2	Subunit of 26S proteasome,cysteine protease	NM_002800	PSMB9
+Peptide Transporter TAP1	Peptide transporter for ER	NM_000593	TAP1
+Tapasin	MHC class I presentation and assembly	NM_003190	TAPBP
+CD44	Cell-surface receptor for hyaluronic acid	NP_000601	CD44
+DC-SIGN	Dendritic cell surface C-type lectin	NM_021155	CD209
+ELAM-1 (CD62E, E-selectin)	E-selectin, endothelial cell leukocyte adhesion molecule	NM_000450	SELE
+Endoglin	Endothelial cell membrane glycoprotein	NM_000118	ENG
+Fibronectin	Extracellular attachment	NM_002026	FN1
+ICAM-1	Intercellular adhesion molecule-1	NM_000201	CD54
+MadCAM-1	Mucosal addressin cell adhesion molecule	NM_130760	MADCAM1
+NCAM	Neural cell adhesion molecule	NM_000615	NCAM
+P-selectin	Platelet adhesion receptor	NM_003005	SELP
+Tenascin-C	ECM protein controls cell attachment and migration, cell growth	NM_002160	TNC
+VCAM-1	Vascular cell adhesion molecule	NM_001078	VCAM1
+Angiotensinogen (Angiotensin II)	Angiotensin precursor, regulates blood pressure	NM_000029	AGT
+beta-defensin-2	Anti-microbial peptide	AF040153	DEFB2
+C4b binding protein	Complement binding protein	NM_000715	C4BPA
+Complement factor C4	Activates extrinsic pathway of complement activation	NM_007293	C4A
+C-reactive protein	Host defense protein	NM_000567	CRP
+Hepcidin	Acute phase protein	NM_021175	HAMP
+Lipopolysaccharide binding protein	Binds to LPS receptor (CD14) with LPS	NM_004139	LBP
+Pentraxin PTX3	Pentraxin	NM_002852	PTX3
+Serum amyloid A proteins (SAA1, SAA2, SAA3)	Serum components	NM_000331	SAA1
+Serum amyloid A proteins (SAA1, SAA2, SAA3)	Serum components	NM_030754	SAA2
+Serum amyloid A proteins (SAA1, SAA2, SAA3)	Serum components	S73444	SAA3
+Tissue factor-1	Activates extrinsic pathway of complement activation	NM_001993	F3
+Urokinase-type plasminogen activator	Activates fibrinogen for fibrin clot lysis	NM_002658	PLAU
+*CYP2E1	Cytochrome p450	NM_000773	CYP2E1
+CYP2C11	Cytochrome p450	X79081	CYP2C11
+CYP7b	Cytochrome p450	NM_004820	CYP7B1
+COX-2	Cyclooxygenase, prostaglandin endoperoxide synthase	NM_000963	PTGS2
+Ferritin H chain	Iron storage protein	NM_002032	FTH1
+HSP90-alpha	Heat shock protein	NM_001017963	HSP90AA1
+*5-Lipoxygenase (guinea pig)	Arachidonic acid metabolic enzyme, leukotriene synthesis	XM_001127464	ALOX5
+12-Lipoxygenase	Arachidonic acid metabolic enzyme	NM_000697	ALOX12
+Inducible NO-Synthase	NO synthesis	NM_000625	NOS2A
+*MAP4K1	Activator of stress-induced protein kinase pathway	NM_001042600	MAP4K1
+SENP2	SUMO-specific protease	NC_0000013.10	SENP2
+SOD1	Manganese uperoxide dismutase	NM_000454	SOD1
+SOD2	Manganese superoxide dismutase	NM_000636	SOD2
+*Mx1	Viral resistance gene	NM_002462	MX1
+NAD(P)H quinone oxidoreductase (DT-diaphorase)	Bioreductive enzyme	NM_000903	NQO1
+Phospholipase A2	Fatty acid metabolism	AF058921	PLA2
+SEPS1	Involved in cytokine production	NM_018445	SELS
+ABCA1	ATP-binding cassette transporter	NM_005502	ABCA1
+ABCC6	ATP-binding, multidrug resistance-associated protein 6 transporter	NM_001171	ABCC6
+A1 adenosine receptor	Pleiotropic physiological effects	NM_000674	ADORA1
+A2A	Adenosine receptor	NM_000675	ADORA2A
+*ADAM19	Dendritic cell marker	NM_023038	ADAM19
+Amiloride-sensitive sodium channel	Sodium channel	NM_001038	SCNN1A
+*alpha2B-adrenergic receptor	adrenergic receptor	NM_000682	ADRA2B
+CD69	Lectin mainly on activated T cells	NM_001781	C69
+DOR	Delta opiod receptor	NM_000911	OPRD1
+Epidermal Growth Factor Receptor	Receptor for EGF	NM_005228	EGFR
+ErbB2	EGF-like receptor	NM_001005862	ERBB2
+Gal1 Receptor	Galanin receptor, neuroendocrine peptide	NM_002256	KISS1
+Lox-1	Receptor for Oxidized low density lipoprotein	NM_002543	OLR1
+Ly49	Receptor on NK cells	NM_006611	KLRA1
+Mdr1	Multiple drug resistance mediator (P-glycoprotein)	NM_018849	ABCB4
+Mu-opioid receptor	Opioid Receptor	EU360599	OPRM1
+mGlu2	Metabotropic glutamate receptor 2	NM_000839	GRM2
+Neuropeptide Y-Y1 receptor	Pleiotropic physiological effects	NM_000909	NPY1R
+*NMDA receptor subunit 2A (rat)	Neural receptor for N-methyl-D-aspartate	NM_000833	GRIN2A
+*NMDA receptor subunit NR-1 (GRIN1 gene)	Subunit of neural receptor for N-methyl-D-aspartate	NM_021569	GRIN1
+Oxytocin receptor	Oxytocin receptor	NM_000916	OXTR
+PAF receptor 1	Platelet activator receptor	NM_000952	PTAFR
+P-gp	P-glycoprotein-Drug resistance	NM_000927	ABCB1
+RAGE- receptor for advanced glycation end products	Receptor for Advanced Glycation End products	NM_001136	AGER
+ASC	Apoptosis-associated speck-like protein containing a CARD	NM_013258	PYCARD
+Bax	Pro-apoptotic Bcl-2 homologue	NM_004324	BAX
+Bfl1/A1	Pro-survival Bcl-2 homologue	NM_004049	BCL2A1
+Bcl-xL	Pro-survival Bcl-2 homologue	NM_138578	BCL2L1
+Bcl-2	Pro-survival factor	NM_000633	BCL2
+Bim	Pro-apoptotic Bcl-2 homolog	NM_138621	BCL2L11
+B7-H1	Programmed cell death ligand 1	NM_014143	CD274
+BNIP3	Hypoxia-inducible death factor	NM_004052	BNIP3
+Caspase-11	Caspase	NM_001225	CASP4
+Nr13	Pro-survival Bcl-2 homologue	NM_204522	NR13
+c-FLIP	Pro-survival factor	NM_003879	CFLAR
+CD95 (Fas)	Pro-apoptotic receptor	NM_000043	FAS
+CIDEA	Cell death-inducing DFFA-like effector A	NP_001270.1; NP_938031.1	CIDEA
+*Fas-associated phosphatase-1	Protein phosphatase	NM_006264	PTPN13
+Fas-Ligand	Inducer of apoptosis	NM_000639	FASLG
+XIAP		NM_001167	XIAP
+CIAP1		NM_001166	BIRC2
+CIAP2		NM_001165	BIRC3
+NAIP		NM_004536	NAIP
+SURVIVIN		NM_001168	BIRC5
+TRAF-1	TNF-receptor associated factor	NM_005658	TRAF1
+TRAF-2	TNF-receptor associated factor	NM_021138	TRAF2
+*TRAF-2 binding protein (Carp)	TRAF2 binding protein	NM_052864	TIFA
+XIAP	X-linked inhibitor of apoptosis	NM_001167	XIAP
+Activin A	TGF-beta-like factor	NM_002192	INHBA
+Angiopoietin	Tie-2 receptor ligand	NM_001146	ANGPT1
+BCAP	B-cell Adaptor for Phosphoinositide 3-kinase	NM_152309	PI3KAP1
+BDNF	Brain-derived neurotrophic factor	NM_001709	BDNF
+BLNK	B-cell linker	NM_013314	BLNK
+BMP-2	Bone Morphogenic Protein-2	NM_001200	BMP2
+BMP-4	Bone Morphogenic Protein-4	NM_001202	BMP4
+CGRP	Calcitonin gene-related peptide	NM_000728	CALCB
+FGF8	Fibroblast Growth Factor 8	NM_006119	FGF8
+FLRG	Follistatin-related gene	NM_005860	FSTL3
+G-CSF	Granulocyte Colony Stimulating Factor	NM_000759	CSF3
+GM-CSF	Granulocyte Macrophage Colony Stimulating Factor	NM_000758	CSF2
+*HGF/SF	Hepatocyte growth factor/scatter factor	NM_000601	HGF
+EPO	Erythropoietin	NM_000799	EPO
+*IGFBP-1	Insulin-like growth factor binding protein-1	NM_001013029	IGFBP1
+IGFBP-2	Insulin-like growth factor binding protein-2	NM_000597	IGFBP2
+M-CSF (CSF-1)	Macrophage Colony Stimulating Factor	NM_000757	CSF1
+Midkine (neurite growth promoting factor-2)	Heparin Binding Growth Factor	NM_001012334	MDK
+NGF	Nerve Growth Factor	NM_002506	NGFB
+NK-1R	Neurokinin-1 Receptor	NM_015727	TACR1
+NK4	Hepatocyte growth factor	NM_001012635	NK4
+Nrg1	Neuregulin	NM_004495	NRG1
+OPN	Osteopontin	NM_001040058	SPP1
+PDGF B chain	Platelet-derived Growth Factor	NM_002608	PDGFB
+PlGF	Placenta Growth Factor	NM_002643	PIGF
+Proenkephalin	Hormone	NM_006211	PENK
+Prolactin	Pituitary hormone	NM_000948	PRL
+Stem Cell Factor	Mast Cell Growth Factor	NM_000899	KITLG
+*Thrombospondin-1 (TSP-1)	Matrix glycoprotein t	NM_003246	THBS1
+*Thrombospondin-2 (THBS2)	Matrix glycoprotein t	NM_003247	THBS2
+VEGF C	Vascular Endothelial Growth Factor	NM_005429	VEGFC
+*WNT10B	Secreted glycoprotein	NM_003394	WNT10B
+*B94	Early response gene	NM_006291	TNFAIP2
+*Egr-1	Mitogen-induced early response gene; zinc finger	NM_001964	EGR1
+*p62	Non-proteasomal multi-ubiquitin chain binding protein	NM_016221	DCTN4
+*TIEG	TGF-b early response gene; zinc finger protein	NM_001032282	KLF10
+A20	TNF-inducible zinc finger	NM_006290	TNFAIP3
+ABIN-3	NF-kB inhibitor	NM_024873	TNIP3
+Androgen receptor	Hormone receptor	NM_000044	AR
+Bcl-3	Coactivator for NF-kB p50 and p52	NM_005178	BCL3
+BMI-1	Polycomb chromatin modifier	NM_005180	BMI1
+CDX1	Homeobox protein	NM_001804	CDX1
+*c-fos (fish gene)	Proto-oncogene	NM_005252	FOS
+c-myb	Proto-oncogene	NM_005375	MYB
+c-myc	Proto-oncogene	NM_002467	MYC
+c-rel	Proto-oncogene	NM_002908	REL
+C/EBPdelta	Transcription factor	NM_005195	CEBPD
+*DC-SCRIPT	Dendritic cell zinc finger protein	NM_152625	ZNF366
+Dmp1	Myb-like transcription factor	NM_001079911	DMP1
+E2F3a	Cell cycle regulator	NM_001949	E2F3
+Elf3	Ets family transcription factor	NM_004433	ELF3
+*ELYS	Embryonic large molecule derived from yolk sac	NM_015446	AHCTF1
+*ETR101	TPA-inducible, Jun-like transcription factor	NM_004907	IER2
+Gata-3	T-cell differentiation Factor	NM_001002295	GATA3
+*Glucocorticoid receptor	Promoter 1B of the GR	NM_000176	NR3C1
+HIF-1alpha	Hypoxia-inducible factor	NM_001530	HIF1A
+HOXA9	Homeobox protein	NM_152739	HOXA9
+IRF-1	Interferon regulatory factor-1	NM_002198	IRF1
+IRF-2	Interferon regulatory factor-2	NM_002199	IRF2
+IRF-4	Interferon regulatory factor-4	NM_002460	IRF4
+IRF-7	Interferon regulatory     factor -7	NM_001572	IRF7
+IkB-a	Inhibitor of Rel/NF-kB	NM_020529	NFKBIA
+IkB-e	Inhibitor of Rel/NF-kB	NM_004556	NFKBIE
+junB	Proto-oncogene	NM_002229	JUNB
+jmjD3	Histone lysine demethylase	XM_043272	JMJD3
+Lef1	Transcription factor in Wnt/b-catenin pathway	NM_016269	LEF1
+LZIP	Leukocyte cell mobility	NM_006368	CREB3
+Mail	IkB-like protein	NM_001005474	NFKBIZ
+nfkb2	NF-kB p100 precursor	NM_001077493	NFKB2
+nfkb1	NF-kB p105 precursor	NM_003998	NFKB1
+NLRP2	NF-kB pathway inhibitor	NM_017852	NLRP2
+NURR1	Nuclear orphan receptor	NM_006186	NR4A2
+Osterix	Bone transcription factor	AF477981	Osterix
+p53	TF, Tumor suppressor	NM_000546	TP53
+Progesterone receptor	Transcription factor	NM_000926	PGR
+PU.1	Transcription factor	NM_001080547.1	SPI1
+relb	Transcription factor	NM_006509	RELB
+Snail	Transcription factor	NM_005985	SNAI1
+Sox9	Transcription factor	NM_000346	SOX9
+Stat5a	Transcription factor	NM_003152	STAT5A
+Tfec	Transcription factor	NM_001018058	TFEC
+Twist	Transcription repressor	NM_000474	TWIST1
+WT1	Zinc finger transcription factor	NM_000378	WT1
+YY1	Transcription factor	NM_003403	YY1
+*ABC Transporters	ATP-binding membrane transporters	NM_019625	ABCB9
+*N-acetylglucosaminyltransferase I (rat gene)	N-acetylglucosaminyltransferase	NM_001097634	GCNT1
+ADH	Liver alcohol dehydrogenase	NM_000667	ADH1A
+AID	Activation-induced cytidine deaminase	NM_020661	AICDA
+AMACR	alpha-methylacyl-CoA racemase	NM_014324	AMACR
+ARF-related protein-1	GTPase	NM_003224	ARFRP1
+Argininosuccinate synthetase	Arginine synthesis	NM_000050	ASS1
+Aromatase (promoter II)	Estrogen synthesis	NM_000103	CYP19A1
+ART2.1	Ecto-ADP-ribosyltransferase	NM_004314	ART1
+alpha 1ACT	Anti-chymotrypsin	NM_001085	SERPINA3
+BACE-1	beta site APP cleaving enzyme	NM_012104	BACE1
+Btk	Brutons Tyrosine kinase	NM_000061	BTK
+Cathepsin B	Lysosomal cysteine protease	NM_001908	CTSB
+*Cathepsin L	Lysosomal cysteine protease	NM_001912	CTSL1
+cdk6	Cell-dependent kinase 6	NM_001259	CDK6
+*Ceramide glycosyltransferase	Glycosphingolipid	NM_020120	UGCGL1
+Chitinase 3-like protein	Chitinase	NM_001276	CHI3L1
+*cis-retinoid/androgen dehydrogenase type 1 (CRAD1)	Short chain dehydrogenase	NM_080436	Rdh1
+*cis-retinoid/androgen dehydrogenase type 2 (CRAD2)	Short chain dehydrogenase	NM_017473	Rdh7
+Collagenase 1	Matrix metalloproteinase	NM_002421	MMP1
+*Dihydrodiol dehydrogenase	Oxidoreductase, oxidation of trans-hydodiols	NM_00135	AKR1C1
+*DYPD	Dihydropyrimidine dehydrogenase	NM_000110	DPYD
+DNASIL2	DNAse-like endonuclease	NM_001374	DNASE1L2
+EL	Endothelial lipase	NM_006033	LIPG
+*ENO2	Enolase 2 gamma	NM_001975	ENO2
+*GAD67	Glutamic acid decarboxylase	NM_000817	GAD1
+GD3-synthase	Sialyltransferase	NM_003034	ST8SIA1
+gp91 phox	Subunit of NADPH oxidase	NM_007052	NOX1
+Gelatinase B	Matrix metalloproteinase	NM_004994	MMP9
+GSTP1-1	Glutathione S-transferase	NM_000852	GSTP1
+Glutamate-cysteine ligase	Glutathione S-transferase synthesis enzyme	NM_001498	GCLC
+*Glutamate-cysteine ligase modifier	Glutathione S-transferase synthesis enzyme	NM_002061	GCLM
+*Glucose l-6-phosphate dehydrogenase	Hexose monophosphate	NM_000402	G6PD
+Glucose-6-phosphatase	Hexose phosphatase	NM_000151	G6PC
+GnRH II	Gonadotropin-releasing hormone II	NM_001501	GNRH2
+Granzyme B	NK cell cytotoxicity	NM_004131	GZMB
+*Soluble Guanylyl cyclase alpha (1)	Receptor for NO	NM_000855	GUCY1A2
+*Heparanase	Cleaves heparin	NM_006665	HPSE
+HO-1	Hemeoxygenase	NM_002133	HMOX1
+Hyaluronan synthase	Synthesizes hyaluronic acid	NM_001523	HAS1
+11bHSD2	11beta-hydroxysteroid dehydrogenase type 2	NM_000196	HSD11B2
+*17bHSD	17beta-hydroxysteroid dehydrogenase	NM_014234	HSD17B8
+H+-K+ATPase alpha2	Role in potassium homeostasis	NM_000702	ATP1A2
+Iodothyronine deiodinase (type 2)	Converts T4 to T3	NM_000793	DIO2
+*Indoleamine 2,3-dioxygenase	Enzyme for Trp synthesis	NM_002164	IDO1
+Lipocalin-type prostaglandin D synthase (L-PGDS)	Prostaglandin D2 synthase in brain	NM_000954	PTGDS
+Lysozyme	Hydrolyzes bacterial cell walls	NM_000239	LYZ
+Mthfr	Methylenetetrahydrofolate reductase	NM_005957	MTHFR
+*MKP-1	MAP kinase phosphatase	NM_004417	DUSP1
+MMP-3, matrix metalloproteinaase-3	Secreted collagenase involved in metastasis	NM_002422	MMP3
+MLCK	(Long) Myosin light chain kinase	NM_053025	MYLK
+n-NOS	Neuronal nitric oxide synthase	NM_000620	NOS1
+*PDE7A1	Phosphodiesterase 7A1	NM_002603	PDE7A
+PIM-1	Ser/Thr kinase	NM_002648	PIM1
+Plk3	Polo-like (Ser/Thr) kinase 3	NM_004073	PLK3
+PIK3CA	Phosphatidylinositol 3-kinase catalytic subunit	NM_006218	PIK3CA
+*PP5	Protein phosphatase 5	NM_006247	PPP5C
+PKAalpha	Protein kinase A isoform	NM_002730	PRKACA
+PKCdelta	Protein kinase D isoform	NM_006254	PRKCD
+PLCdelta 1	Phospholipase C isoform	NM_006225	PLCD1
+*PTGIS, prostaglandin synthase	Prostaglandin synthase	NM_000961	PTGIS
+*PGES, prostaglandin E synthase	Prostaglandin synthase	NM_004878	PTGES
+PTP1B	Protein tyrosine phosphatase 1B	NM_002827	PTPN1
+PTHrP	Parathryroid hormone related protein	NM_002820	PTHLH
+RACK1	Receptor for Activated C kinase	NM_006098	GNB2L1
+*REV3	DNA polymerase zeta	NM_002912	REV3L
+Slfn-2	Schlafen-2 DNA/RNA helicase	NM_011408	Slfn2
+Serpin 2A	Serine protease	XM_372532	SERPINA2
+SIAT1	Sialyltransferase	NM_173216	ST6GAL1
+SNARK	SNF1/AMPK-related kinase	NM_030952	NUAK2
+SSAT	Spermidine/spermine N1-acetyltransferase	NM_002970	SAT1
+*SUV3	ATP-dependent RNA and DNA helicase	NM_003171	SUPV3L1
+TERT	Telomerase catalytic subunit	NM_198253	TERT
+Transglutaminase	Forms isopeptide bonds	NM_000359	TGM1
+TTG	Tissue transglutaminase	NM_004613	TGM2
+Type II-secreted phospholipase A2	Proinflammatory phospholipase	NM_000437	PAFAH2
+Uridine phosphorylase	5-fluorouracil and capecitabine metabolism	NM_003364	UPP1
+*Xanthine Dehydrogenase	Oxidative metabolism of purines	NM_000379	XDH
+*ABCG5 (bovine)	ATP-binding cassette sterol transporters	NM_022436	ABCG5
+ABCG8 (bovine)	ATP-binding cassette sterol transporters	NM_022437	ABCG8
+AbetaH-J-J	Tripartite gene: aspartyl-beta-hydroxylase, junctin), junctate	NM_004318	ASPH
+alpha-1 acid glycoprotein	Serum protein	NM_000607	ORM1
+alpha-fetoprotein	Liver cancer marker	NM_001134	AFP
+AMH	Anti-Mullerian hormone	NM_000479	AMH
+*beta-amyloid	Alzheimers precursor	NM_000484	A4
+APOBEC2	Apolipoportein B mRNA-editing enzyme catalytic subunit 2	NM_006789	APOBEC2
+Apolipoprotein C III	Apoprotein of HDL	NM_000040	APOC3
+Apolipoprotein D	Plasma lipocalin	NM_001647	APOD
+Apolipoprotein E	Protein assoc. with Alzheimers	NM_000041	APOE
+AQP4	Aquaporin 4	NM_001650	AQP4
+*Biglycan	Connective tissue proteoglycan	NM_001711	BGN
+BRCA2	Breast Cancer Susceptibility protein-2	NM_000059	BRCA2
+Calsarcin-1	Muscle cell calcineurin-interacting protein	NM_021245	MYOZ1
+*Caveolin-1	Lipid raft protein	NM_001753	CAV1
+*Clone 330	Possible secreted protein		
+*Clone 156	Unknown NF-kB inducer		
+*Clone 68	Unknown NF-kB inducer		
+*p21-CIP1	Cyclin-dependent kinase inhibitor	NM_000389	CDKN1A
+*Claudin-2	Gap junction protein	NM_020384	CLDN2
+a2(I) collagen	Type I collagen	NM_000089	COL1A2
+*Connexin32	Gap junction protein	NM_000166	GJB1
+Cyclin D1	Cell-cycle regulation	NM_053056	CCND1
+Cyclin D2	Cell-cycle regulation	NM_001759	CCND2
+*Cyclin D3	Cell-cycle regulation	NM_001760	CCND3
+DIF2	Monocyte differentiation gene	NM_003897	IER3
+DMT1	Divalent metal ion transporter	NM_000617	SLC11A2
+Elafin	Proteinase inhibitor	NM_002638	PI3
+Endothelin 1	Vasoconstrictor peptide/mitogen	NM_001955	EDN1
+Ephrin-A1	Cell-cycle regulation	NM_005232	EPHA1
+Factor VIII	Hemostasis	NM_000132	F8
+Gadd45beta	DNA repair/cell cycle	NM_015675	GADD45B
+Galpha i2	G protein	NM_002070	GNAI2
+*GIF	Cys-rich metal binding protein	NM_005954	MT3
+Galectin 3	b-galactosidase-binding lectin	NR_003225	LGALS3
+GBP-1	GTPase guanylate binding protein	NM_002053	GBP1
+epsilon-Globin	Globin protein	NM_005330	HBE1
+zeta-Globin	Globin protein	NM_005332	HBZ
+*GS3686	Homology to microtubule aggregating protein	NM_006820	IFI44L
+Hair K5 keratin	Hair keratin protein	NM_000424	KRT5
+*HCCS1	Hepatocarcinoma suppressor 1	NM_018289	VPS53
+HMG14	High mobility group 14	NM_004965	HMGN1
+IBABP	Ileal bile acid binding protein	NM_001445	FABP6
+K3 Keratin	Intermediate filament protein	NM_057088	KRT3
+K6b Keratin	Intermediate filament protein	NM_005555	KRT6B
+K15 Keratin	Intermediate filament protein	NM_002275	KRT15
+*Lactoferrin	Milk protein	NM_002343	LTF
+Laminin B2 Chain	Basement membrane protein	NM_002292	LAMB2
+Lipocalin-2	Iron-siderophore-binding protein	NM_005564	LCN2
+Mts1	Multiple tumor suppressor	NM_002961	S100A4
+Mir125b	Micro-RNA TNFa		
+Mir146a, b	Micro-RNA for IRAK and Traf6		
+Mir155	Micro-RNA for FADD, IKKe, Ripk1		
+MNE1	Monocyte/neutrophil elastase inhibitor	NM_030666	SERPINB1
+Mucin (MUC-2)	Airway defense glycoprotein	NM_002457	MUC2
+Myelin basic protein	Neural sheath	NM_001025081	MBP
+MCT1	Monocarboxylate transporter isoform 1	NM_003051	SLC16A1
+Naf1	Associates with HIV Nef	NM_006058	TNIP1
+NLF1	IL-1beta induced	NM_207322	FAM148A
+*p11	Annexin II ligand	NM_002966	S100A10
+PA28 alpha	Proteasome activator	NM_006263	PSME1
+PA28 beta	Proteasome activator	NM_002818	PSME2
+PAI-1	Plasminogen activator inhibitor	NM_000602	SERPINE1
+*Pax8	Paired box gene	NM_003466	PAX8
+*PCBD	6-pyruvoyl-tetrahydropterin synthase	NM_000317	PTS
+Perforin	Pore-forming effector molecule	NM_005041	PRF1
+PGC-1?	mitochondrial regulator PPAR-? coactivator 1?	NM_001172698.1	PPARGC1B
+*PGK1	Phosphoglycerate kinase 1	NM_000291	PGK1
+POMC	Proopiomelanocortin	NM_000939	POMC
+Pregnancy-specific glycoprotein rnCGM3	Placental expression	NM_019126	CGM3
+Prodynorphin	Neuropeptide	NM_024411	PDYN
+Prostate-specific antigen	Serum protein in prostate cancer	NM_001030047	KLK3
+PTEN	Tumor suppressor	NM_000314	PTEN
+RAG-1	Immunoglobulin recombinase genes	NM_000448	RAG1
+RAG-2	Immunoglobulin recombinase genes	NM_000536	RAG2
+RbAp48	Retinoblastoma-associated protein 48	NM_005610	RBBP4
+*RICK	Adaptor	NM_003821	RIPK2
+SerpinE2	Serine protease inhibitor	NM_006216	SERPINE2
+S100A6 (calcyclin)	Calcium binding protein	NM_014624	S100A6
+SH3BGRL	SH3-binding glutamic acid-rich protein	NM_003022	SH3BGRL
+SK2 channels	Small-conductance Ca2+-activated channels	NM_021614	KCNN2
+Skp2	S-phase kinase-associated protein 2	NM_005983	SKP2
+*Spergen-1	Sperm-specific mitochondrial protein	NM_174927	SPATA19
+SWS1	Rainbow trout opsin	NM_001708	OPN1SW
+Syncytin-1	Env glycoprotein of endogenous human retrovirus	NM_014590	ERVWE1
+Syndecan-4	Heparin sulfate proteoglycan	NM_002999	SDC4
+TAUT	Taurine Uptake Transporter	NM_003043	SLC6A6
+TASK-2	Tandem P domain potassium channel	NM_003740	KCNK5
+*Tissue factor pathway inhibitor-2 (TFPI-2)	Serine protease inhibitor	NM_006528	TFPI2
+*Transferrin (mosquito)	Probable iron transport protein	NM_001063	TF
+TRIF	TIR-containing adaptor protein inducing interferon beta	NM_014261	TICAM1
+TRPC1	Thrombin activation of protease-activated receptor-1	NM_003304	TRPC1
+*UBE2M	Ubiquitin conjugating enzyme E2M	NM_003969	UBE2M
+*UCP-2	Uncoupling protein-2	NM_003355	UCP2
+Uroplakin Ib	Surface structural protein on urothelial cells	NM_006952	UPK1B
+25-hydroxyvtamin D3 1alpha hydroxylase	Enzyme for liver vitamin D3 production	NM_000785	CYP27B1
+Vimentin	Intermediate filament protein	NM_003380	VIM
+a1-antitrypsin	Protease inhibitor	NM_000295	SERPINA1
