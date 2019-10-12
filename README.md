@@ -1,5 +1,5 @@
-# NFkB-gene
-A List of NFkB (NFkappaB, NF-κB) target genes
+# NFkB (NFkappaB, NF-κB) target genes
+A list of NFkB (NFkappaB, NF-κB) target genes
 
 Dr. Thomas Gilmore (Boston University) maintains a list of NFkB target genes here:
 https://www.bu.edu/nf-kb/gene-resources/target-genes/
